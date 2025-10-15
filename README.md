@@ -4,9 +4,9 @@ This project demonstrates a machine learning pipeline to detect hate speech in t
 
 ## 📁 Project Structure
 
-├── hate speech detection.ipynb # Main notebook with code and analysis
-├── clean_dataset.csv # Cleaned dataset (CSV format)
-├── clean_dataset.xlsx # Cleaned dataset (Excel format)
+├── hate speech detection.ipynb # Main notebook with code and analysis.
+├── clean_dataset.csv # Cleaned dataset (CSV format).
+├── clean_dataset.xlsx # Cleaned dataset (Excel format).
 
 
 ## 🎯 Objective
